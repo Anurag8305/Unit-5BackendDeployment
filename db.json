@@ -901,7 +901,7 @@
 			"img3": "https://img3.junaroad.com/uiproducts/18346511/zoom_2-1651066623.jpg"
 		}
 	],
-    "Landing": [
+	"Landing": [
 		{
 			"id": 1,
 			"image": "https://img0.junaroad.com/stories/story_p_63b7f02113cb38082a015356-1673860390.jpeg",
@@ -1251,6 +1251,13 @@
 			"designer": "anujabofficial",
 			"followers": 546,
 			"likes": "11k"
+		}
+	],
+	"Users": [
+		{
+			"email": "deepbedi1049@gmail.com",
+			"password": "12345",
+			"username": "Pardeep"
 		}
 	]
 }
